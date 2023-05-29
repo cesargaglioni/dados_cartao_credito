@@ -4,20 +4,20 @@ O objetivo do projeto é demonstrar habilidades em Python e capacidade de análi
 # Descrição do Projeto
 O projeto consiste em analisar um conjunto de dados financeiros que contém informações sobre gastos realizados por clientes. O conjunto de dados está disponível no arquivo dados.csv e possui as seguintes colunas:
 
-id: ID do cliente
-celular: Número de telefone
-safra_abertura: Número da agência
-cidade: Cidade
-estado: Estado
-idade: Idade
-sexo: Gênero
-limite_total: Limite total do cartão de crédito
-limite_disp: Limite disponível atual
-data: Data da transação
-valor: Valor da transação
-grupo_estabelecimento: Categoria da despesa
-cidade_estabelecimento: Cidade onde a compra foi realizada
-pais_estabelecimento: País onde a compra foi realizada
+- id: ID do cliente
+- celular: Número de telefone
+- safra_abertura: Número da agência
+- cidade: Cidade
+- estado: Estado
+- idade: Idade
+- sexo: Gênero
+- limite_total: Limite total do cartão de crédito
+- limite_disp: Limite disponível atual
+- data: Data da transação
+- valor: Valor da transação
+- grupo_estabelecimento: Categoria da despesa
+- cidade_estabelecimento: Cidade onde a compra foi realizada
+- pais_estabelecimento: País onde a compra foi realizada
 
 # Estrutura do projeto
 Até o momento, o projeto está dividido em duas etapas:
