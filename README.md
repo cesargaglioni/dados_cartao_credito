@@ -22,7 +22,12 @@ O projeto consiste em analisar um conjunto de dados financeiros que contém info
 # Estrutura do projeto
 Até o momento, o projeto está dividido em duas etapas:
 
-Limpeza e Pré-processamento dos Dados: Realização de uma limpeza inicial nos dados, removendo entradas duplicadas, tratando valores ausentes e padronizando os formatos. Também é realizado o pré-processamento dos dados, como a normalização de valores ou a codificação de categorias.
+- Limpeza e Pré-processamento dos Dados: Realização de uma limpeza inicial nos dados, removendo entradas duplicadas, tratando valores ausentes e padronizando os formatos. Também é realizado o pré-processamento dos dados, como a normalização de valores ou a codificação de categorias.
 
-Análise Exploratória de Dados: Utilização de gráficos e estatísticas descritivas para explorar os dados financeiros. Identificação de tendências, padrões de gastos, principais categorias de despesas e quaisquer insights interessantes que possam ser extraídos.
+- Análise Exploratória de Dados: Utilização de gráficos e estatísticas descritivas para explorar os dados financeiros. Identificação de tendências, padrões de gastos, principais categorias de despesas e quaisquer insights interessantes que possam ser extraídos.
 
+# Futuro
+Algumas próximas etapas do projeto estão em desenvolvimento. 
+- Modelagem Preditiva: Utilização de técnicas de modelagem preditiva, como regressão ou classificação, para prever gastos futuros com base nos dados históricos. Essa etapa permite a criação de modelos que podem ser utilizados para tomada de decisões ou análises futuras.
+- Análise de Séries Temporais: Utilização de técnicas de análise de séries temporais para identificar padrões sazonais, tendências ou outros comportamentos em relação aos gastos ao longo do tempo. Essa etapa fornece insights sobre o comportamento dos gastos ao longo das diferentes datas registradas nos dados.
+- Criação de Painéis Interativos: Utilização de bibliotecas de visualização de dados, como Plotly ou Bokeh, para criar painéis interativos que permitem a exploração dos dados de forma interativa. Essa etapa torna a análise dos dados mais dinâmica e acessível para diferentes usuários.
